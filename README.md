@@ -3,11 +3,11 @@
  A Wordpress plugin that uses the Songlink (odesli.co) API to create links to your music.
 
 
- ##How to install
+## How to install
 
- 1) Download via GitHub Desktop or as zip
+1) Download via GitHub Desktop or as zip
 
- 2) Add the folders to your Wordpress Site via FTP
+2) Add the folders to your Wordpress Site via FTP
     - bp-songlink-storage should be located in your plugins folder.
     - The other files should be in your theme folder. I recommend creating a child theme but you cna do it in the parent theme as well.
     
@@ -22,7 +22,7 @@
 7) (optional) You might want to style this a little with custom CSS.
 
 
-##Notes
+## Notes
 
 This is my first Wordpress plugin so it might not be the ideal way to do this, but it works.
 
