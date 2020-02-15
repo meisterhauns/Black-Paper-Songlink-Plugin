@@ -88,7 +88,7 @@ class BPSonglinkStorage extends WP_Widget
         <?php // class Field ?>
         <p>
             <label for="<?php echo esc_attr( $this->get_field_id( 'class' ) ); ?>"><?php _e( 'class:', 'text_domain' ); ?></label>
-            <input class="widefat" id="<?php echo esc_attr( $this->get_field_id( 'class' ) ); ?>" name="<?php echo esc_attr( $this->get_field_name( 'class' ) ); ?>" type="number" value="<?php echo esc_attr( $class ); ?>" />
+            <input class="widefat" id="<?php echo esc_attr( $this->get_field_id( 'class' ) ); ?>" name="<?php echo esc_attr( $this->get_field_name( 'class' ) ); ?>" type="text" value="<?php echo esc_attr( $class ); ?>" />
         </p>
 
         <?php // path Field ?>
