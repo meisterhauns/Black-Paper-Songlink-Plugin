@@ -8,10 +8,10 @@
 1) Download via GitHub Desktop or as zip
 
 2) Add the folders to your Wordpress Site via FTP
-    - bp-songlink-storage should be located in your plugins folder.
+    - _bp-songlink-storage_ should be located in your plugins folder.
     - The other files should be in your theme folder. I recommend creating a child theme but you cna do it in the parent theme as well.
     
-3) In your wp-admin dashboard go to plugins and enable "Black Paper Songlink Plugin".
+3) In your wp-admin dashboard go to plugins and enable _Black Paper Songlink Plugin_.
 
 4) Create a private page and add the plugin.
 
@@ -26,6 +26,6 @@
 
 This is my first Wordpress plugin so it might not be the ideal way to do this, but it works.
 
-You might want to look into the plugins/bp-songlink-storage/files folder every once in a while. When typing in the title it saves every time you type so if you create a file that is called "movement" there might be some files like "mov.txt", "movem.txt", "movemen.txt" and "movement.txt".
+You might want to look into the _plugins/bp-songlink-storage/files_ folder every once in a while. When typing in the title it saves every time you type so if you create a file that is called _movement_ there might be some files like _mov.txt_, _movem.txt_, _movemen.txt_ and _movement.txt_.
 
 Also you can replace any of the images by defining a custom folder. Don't forget the "/" infront though!
