@@ -29,3 +29,10 @@ This is my first Wordpress plugin so it might not be the ideal way to do this, b
 You might want to look into the _plugins/bp-songlink-storage/files_ folder every once in a while. When typing in the title it saves every time you type so if you create a file that is called _movement_ there might be some files like _mov.txt_, _movem.txt_, _movemen.txt_ and _movement.txt_.
 
 Also you can replace any of the images by defining a custom folder. Don't forget the "/" infront though!
+
+## Tutorial
+
+A video tutorial is available here:
+https://youtu.be/KdphLZcH5u4
+
+This is probably also one of the best places to ask questions!
