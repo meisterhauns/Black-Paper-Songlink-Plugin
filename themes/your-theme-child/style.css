@@ -1,0 +1,45 @@
+/*
+This is an example css for the Black Paper Songlink Plugin
+*/
+
+.bp-store-icon{
+	border: 4px solid #888888 !important;
+    border-radius: 100px !important;
+    margin: 5px;
+}
+
+.bp-store-icon:hover{
+	border-color: #04BFBF !important;
+}
+
+.bp-gray,.bp-hover-gray:hover{color:#fff!important;background-color:#141519!important}
+.bp-text-gray,.bp-hover-text-gray:hover{color:#141519!important}
+.bp-border-gray,.bp-hover-border-gray:hover{border-color:#141519!important}
+
+.bp-light-gray,.bp-hover-light-gray:hover{color:#fff!important;background-color:#25282b!important}
+.bp-text-light-gray,.bp-hover-text-light-gray:hover{color:#25282b!important}
+.bp-border-light-gray,.bp-hover-border-light-gray:hover{border-color:#25282b!important}
+
+.bp-dark-teal,.bp-hover-dark-teal:hover{color:#fff!important;background-color:#023A40!important}
+.bp-text-dark-teal,.bp-hover-text-dark-teal:hover{color:#023A40!important}
+.bp-border-dark-teal,.bp-hover-border-dark-teal:hover{border-color:#023A40!important}
+
+.bp-teal,.bp-hover-teal:hover{color:#fff!important;background-color:#0396A6!important}
+.bp-text-teal,.bp-hover-text-teal:hover{color:#0396A6!important}
+.bp-border-teal,.bp-hover-border-teal:hover{border-color:#0396A6!important}
+
+.bp-light-teal,.bp-hover-light-teal:hover{color:#fff!important;background-color:#04BFBF!important}
+.bp-text-light-teal,.bp-hover-text-light-teal:hover{color:#04BFBF!important}
+.bp-border-light-teal,.bp-hover-border-light-teal:hover{border-color:#04BFBF!important}
+
+.bp-red,.bp-hover-red:hover{color:#fff!important;background-color:#F2A7A0!important}
+.bp-text-red,.bp-hover-text-red:hover{color:#F2A7A0!important}
+.bp-border-red,.bp-hover-border-red:hover{border-color:#F2A7A0!important}
+
+.bp-yellow,.bp-hover-yellow:hover{color:#fff!important;background-color:#FFDAB6!important}
+.bp-text-yellow,.bp-hover-text-yellow:hover{color:#FFDAB6!important}
+.bp-border-yellow,.bp-hover-border-yellow:hover{border-color:#FFDAB6!important}
+
+.bp-text,.bp-hover-text:hover{color:#fff!important;background-color:#888888!important}
+.bp-text-text,.bp-hover-text-text:hover{color:#888888!important}
+.bp-border-text,.bp-hover-border-text:hover{border-color:#888888!important}
